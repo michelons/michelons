@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/michelonsouza)](https://www.linkedin.com/in/michelonsouza)
 [![Gmail Badge](https://img.shields.io/badge/-michelon.souza@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelon.souza@hotmail.com)](mailto:michelon.souza@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/michelon/?hl=pt-br)](https://www.instagram.com/michelon/?hl=pt-br)
-[![Rocketseat Badge](https://img.shields.io/badge/rocketseat-michelon-7159c1?link=https://app.rocketseat.com.br/me/michelon)](https://app.rocketseat.com.br/me/michelon)
+[![Rocketseat Badge](https://img.shields.io/badge/rocketseat-michelon-7159c1?style=flat&logo=Rocketseatlink=https://app.rocketseat.com.br/me/michelon)](https://app.rocketseat.com.br/me/michelon)
 
 💻  Atualmente desenvolvendo em VueJS e ReactJS <br/>
 📚  Estudando material-ui e NodeJS <br/>
