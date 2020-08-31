@@ -8,13 +8,13 @@
 
 ### Se quiser conversar, me chame por aqui
 
-[![Linkedin Badge](https://img.shields.io/badge/-michelon-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/michelonsouza)](https://www.linkedin.com/in/michelonsouza)
-[![Gmail Badge](https://img.shields.io/badge/-michelon.souza@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelon.souza@hotmail.com)](mailto:michelon.souza@hotmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-michelon-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/michelon/?hl=pt-br)](https://www.instagram.com/michelon/?hl=pt-br)
+[![Linkedin Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/michelonsouza)](https://www.linkedin.com/in/michelonsouza)
+[![Gmail Badge](https://img.shields.io/badge/-michelon.souza@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelon.souza@hotmail.com)](mailto:michelon.souza@hotmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/michelon/?hl=pt-br)](https://www.instagram.com/michelon/?hl=pt-br)
 
-💻 Atualmente desenvolvendo em VueJS e reactJS <br/>
-📚 Estudando material-ui e NodeJS <br/>
-🍺 Gosto de uma boa cerveja artesanal aos fins de semana <br/>
+💻  Atualmente desenvolvendo em VueJS e reactJS <br/>
+📚  Estudando material-ui e NodeJS <br/>
+🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
 
 Se precisar, pode me chamar!
 </samp>
