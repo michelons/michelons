@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-michelon.souza@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michelon.souza@hotmail.com)](mailto:michelon.souza@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/michelon/?hl=pt-br)](https://www.instagram.com/michelon/?hl=pt-br)
 
-💻  Atualmente desenvolvendo em VueJS e reactJS <br/>
+💻  Atualmente desenvolvendo em VueJS e ReactJS <br/>
 📚  Estudando material-ui e NodeJS <br/>
 🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
 
