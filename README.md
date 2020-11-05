@@ -4,7 +4,7 @@
 #### Estudo sempre que posso (quase todo o dia) para me manter atualizado e sempre validar velhos conceitos, o que tem se mostrado muito produtivo pra mim, tanto pessoalmente quanto profissionalmente.
 
 ### O que eu faço e de onde venho?
-💻 Desenvolvedor Front-end - Uello Tecnologia 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedor Front-end - Uello Tecnologia | CBYK 🌎 São Paulo ✈️ Brasil
 
 ### Se quiser conversar, me chame por aqui
 
