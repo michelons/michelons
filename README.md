@@ -18,18 +18,38 @@
 
 ### Linguagens e Frameworks
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <a href="https://html.spec.whatwg.org/multipage/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://www.w3.org/Style/CSS/#specs" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    
+    <a href="https://www.javascript.com/"  target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    
     <a href="https://vuejs.org" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
     </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="react" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" width="40" height="40" />
+    <a href="https://reactjs.org/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+    </a>
+    <a href="https://material-ui.com/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://nodejs.org/en/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+    </a>
+    <a href="https://expressjs.com/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="nodejs" width="40" height="40" />
+    </a>
 </p>
 <br />
 
