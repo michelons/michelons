@@ -6,6 +6,9 @@
 ### O que eu faço e de onde venho?
 💻 Desenvolvedor Front-end - Uello Tecnologia | CBYK 🌎 São Paulo ✈️ Brasil
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=michelonsouza&show_icons=true&count_private=true&theme=radical)]()<br /><br />
+[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michelonsouza&layout=compact&count_private=true&theme=radical)]()
+
 ### Se quiser conversar, me chame por aqui
 
 [![Linkedin Badge](https://img.shields.io/badge/-michelon-blue?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/michelonsouza)](https://www.linkedin.com/in/michelonsouza)
@@ -16,9 +19,6 @@
 💻  Atualmente desenvolvendo em VueJS e ReactJS <br/>
 📚  Estudando mais afundo o Typescript <br/>
 🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=michelonsouza&show_icons=true&count_private=true&theme=radical)]()<br />
-[![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michelonsouza&layout=compact&count_private=true&theme=radical)]()
 
 👍  Se precisar, pode me chamar!
 </samp>
