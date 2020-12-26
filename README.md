@@ -24,11 +24,9 @@
     <a href="https://www.w3.org/Style/CSS/#specs" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
-    
     <a href="https://www.javascript.com/"  target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    
     <a href="https://vuejs.org" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
     </a>
