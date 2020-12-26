@@ -52,7 +52,7 @@
 <br />
 
 💻  Atualmente desenvolvendo em VueJS e ReactJS <br/>
-📚  Estudando mais afundo o Typescript <br/>
+📚  Estudando mais afundo o Clean Arquiteture <br/>
 🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
 
 👍  Se precisar, pode me chamar!
