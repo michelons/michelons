@@ -17,5 +17,7 @@
 📚  Estudando mais afundo o Typescript <br/>
 🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=michelonsouza&show_icons=true&count_private=true&theme=radical)]
+
 👍  Se precisar, pode me chamar!
 </samp>
