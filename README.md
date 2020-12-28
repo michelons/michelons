@@ -27,6 +27,9 @@
     <a href="https://www.javascript.com/"  target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
+    <a href="https://www.typescriptlang.org/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+    </a>
     <a href="https://vuejs.org" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
     </a>
@@ -35,9 +38,6 @@
     </a>
     <a href="https://material-ui.com/" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40" />
