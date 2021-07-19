@@ -51,7 +51,7 @@
 </p>
 <br />
 
-💻  Atualmente desenvolvendo em VueJS e ReactJS <br/>
+💻  Atualmente desenvolvendo em ReactJS <br/>
 📚  Estudando mais afundo o Clean Arquiteture <br/>
 🍺  Gosto de uma boa cerveja artesanal aos fins de semana <br/>
 
