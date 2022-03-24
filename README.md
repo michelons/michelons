@@ -4,7 +4,7 @@
 #### Estudo sempre que posso (quase todo o dia) para me manter atualizado e sempre validar velhos conceitos, o que tem se mostrado muito produtivo pra mim, tanto pessoalmente quanto profissionalmente.
 
 ### O que eu faço e de onde venho?
-💻 Desenvolvedor Front-end - @Meritt | @Accurate 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedor Front-end - @SOMOS | @Accurate 🌎 São Paulo ✈️ Brasil
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=michelonsouza&show_icons=true&count_private=true&theme=radical)](https://github.com/michelonsouza/michelonsouza)<br /><br />
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michelonsouza&layout=compact&count_private=true&theme=radical)](https://github.com/michelonsouza/michelonsouza)
